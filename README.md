@@ -1,2 +1,2 @@
 # RX
-skinpacks and lost media project
+skinpacks for mcbe
